@@ -1,17 +1,17 @@
 future: true
 permalink: /:title/
-url: http://pmlpml.github.io
-name: Pan Sir
-author: Sir Pan
-qq: yourqq
-email: yourmail@mail2.sysu.edu.cn
+url: http://alexandrali3.github.io
+name: Yizhen Li
+author: Yizhen Li
+qq: 1184862561
+email: 1184862561@qq.com
 
 duoshuo: yourname
-beian: 
-cnzz: 
-weibo: 
-github: yourID
-about: "这里是 Your 的个人博客，创建于 20xx 年。"
+beian:
+cnzz:
+weibo:
+github: alexandrali3
+about: "这里是 alexandrali3 的个人博客，创建于 2018 年。"
 
 safe: true
 paginate: 20
