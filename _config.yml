@@ -12,13 +12,13 @@ plugins: ['jekyll-paginate', 'jekyll-gist', 'jekyll-feed']
 
 paginate: 4
 
-logo:             logo.png
+logo:
 disqus_shortname:
 
 rtl: false
 owner:
   name:           Yizhen Li
-  avatar:         "https://avatars1.githubusercontent.com/u/537678?s=240&v=4"
+  avatar:
   email:          "1184862561@qq.com"
   # Social networking links used in footer. Update and remove as you like.
   twitter:
