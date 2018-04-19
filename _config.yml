@@ -1,10 +1,10 @@
 name: Blog
 description: >
-    Yizhen Li's Blog.
+    Yizhen Li's Blog
 
 master_repo: false
 url: "http://alexandrali3.github.io"
-markdown: markdown
+markdown: kramdown
 highlighter: rouge
 
 
