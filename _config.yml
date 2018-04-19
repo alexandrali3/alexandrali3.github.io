@@ -1,7 +1,12 @@
 name: Blog
 description: >
     Yizhen Li's Blog.
+
+master_repo: false
+url: "http://alexandrali3.github.io"
+markdown: markdown
 highlighter: rouge
+
 
 plugins: ['jekyll-paginate', 'jekyll-gist', 'jekyll-feed']
 
