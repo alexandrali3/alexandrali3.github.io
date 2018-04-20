@@ -4,9 +4,16 @@ title: About Vinit Kumar
 ---
 
 <h1 class="owner-name">{{ site.owner.name}} </h1>
-![user-avatar]({{ site.owner.avatar }})
+<!-- ![user-avatar]({{ site.owner.avatar }}) -->
 
 {{site.about}}
+
+{% if site.owner.school %}
+  School: {{site.owner.school}}
+{% endif %}
+{% if site.owner.major %}
+  Major: {{site.owner.major}}
+{% endif %}
 
 <div class="pagination">
   {% if site.owner.linkedin %}

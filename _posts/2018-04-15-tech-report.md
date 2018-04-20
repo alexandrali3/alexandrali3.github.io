@@ -1,9 +1,18 @@
 ---
-layout: post
 title: 第一次技术报告
-date: 2018-04-15
-categories: 日志
-tags: 博客
+layout: "post"
+permalink: "/2018/04/15/tech-report.html"
+date: "2018-04-15"
+description: 
+blogger:
+    siteid: 
+    postid: 
+    comments: 
+categories: 
+author: 
+    name: "Yizhen Li"
+    url: 
+    image: 
 ---
 
 # 第一次技术报告
